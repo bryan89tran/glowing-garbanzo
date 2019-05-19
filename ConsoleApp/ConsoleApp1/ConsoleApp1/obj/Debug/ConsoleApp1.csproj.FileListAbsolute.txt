@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\ConsoleApp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\ConsoleApp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\ConsoleApp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\ConsoleApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\ConsoleApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\ConsoleApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\ConsoleApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
