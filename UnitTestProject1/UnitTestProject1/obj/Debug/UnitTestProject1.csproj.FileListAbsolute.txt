@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+\\Mac\Home\Documents\Code\GITHUB\myGIT\dotnet_core\CsharpPractice\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
